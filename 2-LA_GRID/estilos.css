@@ -1,0 +1,35 @@
+header{
+    background-color: #33d9b2;
+}
+
+aside{
+    background-color: #ffb142;
+}
+
+article{
+    background-color: #ff5252;
+}
+
+div.caja1{
+    background-color: #227093;
+}
+
+div.caja2{
+    background-color: #ff793f;
+}
+
+div.caja3{
+    background-color: #218c74;
+}
+
+div.caja4{
+    background-color: #40407a;
+}
+
+p{
+    color: antiquewhite;
+}
+
+footer{
+    background-color: #33d9b2;
+}
